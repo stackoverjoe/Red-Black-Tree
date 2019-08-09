@@ -1,6 +1,4 @@
 //Joe Leland
-//Assignment 3
-//CS202
 //This module creates the redblack tree and menu to be ran by the user. All interactions with the data are called from here, to the redBlack class.
 #include "header.h"
 
