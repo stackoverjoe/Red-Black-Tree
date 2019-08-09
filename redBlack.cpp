@@ -1,6 +1,4 @@
 //Joe Leland
-//Assignment 3
-//CS202
 //This module contains all of the implementation of the redBlack class
 #include "header.h"
 
