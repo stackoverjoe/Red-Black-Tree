@@ -1,6 +1,4 @@
 //Joe Leland
-//Assignment 3
-//CS202
 //This module contains all of the implementations for the app class
 #include "header.h"
 
