@@ -1,6 +1,4 @@
 //Joe Leland
-//Assignment 3
-//CS202
 //Sources: https://www.geeksforgeeks.org/red-black-tree-set-2-insert/, https://www.cs.auckland.ac.nz/software/AlgAnim/red_black.html, http://staff.ustc.edu.cn/~csli/graduate/algorithms/book6/chap14.htm
 //https://en.wikipedia.org/wiki/Red%E2%80%93black_tree
 //This module contains all class definitions and prototypes. App is the indirect abstract base class for weatherApp, gameApp, and studyApp. An additional class, named redBlack, manages a red-black tree to store all of the data.
