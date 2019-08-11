@@ -163,7 +163,7 @@ void studyApp::write(ofstream& outFile){
 }
 
 
-//overloaded = that copies the object on the left into the object on the fight. Virtual to be used with upcasting
+//overloaded = that copies the object on the right into the object on the left. Virtual to be used with upcasting
 app& app::operator= (const app& be_copied){
     if(this == &be_copied){
         return *this;
